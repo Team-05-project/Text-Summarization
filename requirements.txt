@@ -1,0 +1,15 @@
+REQUIRED PYTHON LIBRARIES:
+
+os: For file system operations.
+pandas: For data manipulation and analysis.
+plotly: For creating interactive visualizations.
+cufflinks: For connecting Plotly with pandas for easy plotting.
+collections: For data structures like Counter.
+nltk: For Natural Language Processing tasks.
+numpy: For numerical computations.
+networkx: For graph-based operations or visualizations.
+re: For regular expressions and text processing.
+textblob: For text analysis and processing.
+tensorflow_hub: For TensorFlow models and embeddings.
+bokeh: For creating visualizations (optional, if used).
+sumy: For text summarization tasks.
