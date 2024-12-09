@@ -1,3 +1,8 @@
+# Group 6
+- Lavanya, Gurram
+- Lohit Bollampally
+- Tanoj Kumar Anapana
+
 # Overview
 This project delves into Natural Language Processing (NLP), showcasing practical implementations of key techniques used in text analysis and language modeling. It is designed to serve as a resource for students and researchers looking to understand or apply NLP concepts.
 ## Features
